@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.basico;
 
 public class AreaCircunferencia {
     public static void main(String[] args) {

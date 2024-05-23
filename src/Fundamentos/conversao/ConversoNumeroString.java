@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.conversao;
 
 public class ConversoNumeroString {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.basico;
 
 public class PrimitivosVsObjetos {
         //wrappers sao os objetos dos tipos primitivos

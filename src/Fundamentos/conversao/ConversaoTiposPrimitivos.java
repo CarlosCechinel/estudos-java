@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.conversao;
 
 public class ConversaoTiposPrimitivos {
     private static void main(String[] args){

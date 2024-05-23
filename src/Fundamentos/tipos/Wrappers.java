@@ -1,4 +1,4 @@
-package Fundamentos;
+package Fundamentos.tipos;
 
 public class Wrappers {
 
